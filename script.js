@@ -37,7 +37,7 @@ function submitPhone(option) {
 
 }
 function validNumber(num) {
-    let patt = /^((03\d{1})|(70\d{1})|(71\d{1})|(76([0:1]|[3:9]){1})|(788)|(789)|(79[123]{1})|(81[23467]{1}))\d{5}$/
+    let patt = /^((03\d{1})|(70\d{1})|(71\d{1})|(76([0-1]|[3-9]){1})|(788)|(789)|(79[123]{1})|(81[23467]{1}))\d{5}$/
     return patt.test(num);
 }
 function saveNumber(num, option, callback){
