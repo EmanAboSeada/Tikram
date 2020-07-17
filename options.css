@@ -1,0 +1,57 @@
+*{
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    padding: 0;
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+.container{
+    width: 85%;
+    margin: 0 auto;
+}
+.logo a{
+ color: darkblue;
+ font-size: 36px;
+ font-family: Calibri, 'Trebuchet MS', sans-serif;
+ font-weight: bold;
+ text-decoration: none;
+}
+.logo .phone{
+    display: flex;
+    align-items: center;
+    color: rgb(5, 132, 218);
+    font-size: 22px ;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.whatsapp-icon {
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+iframe{
+    width: 80%;
+    margin: 0 auto;
+    height: calc(120px + 28vw);
+    border: none;
+    display: block;
+}
+.page-link{
+    text-align: center;
+    margin-top: 10px;
+}
+.page-link>a{
+    font-size: 30px;
+    padding: 5px;
+}
+@media only screen and (max-width: 414px) {
+    .container{
+        width: 95%;
+    }
+    iframe{
+        width: 100%;
+    }
+}
