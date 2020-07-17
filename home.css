@@ -45,7 +45,7 @@ header{
     width: 100%;
     padding-top: 10px;
     background-image: linear-gradient(to bottom, rgb(224, 225, 226), white 73%);
-    margin-bottom: 100px;
+    margin-bottom: 160px;
 }
 .logo h3{
  color: darkblue;
@@ -136,7 +136,7 @@ input.phone-input::placeholder{
 .send-btn{
     display: block;
     margin: 1rem auto;
-    padding: .25em 5rem;
+    padding: .24em 4.5rem;
     font-size: 1.8rem;
     border: none;
     background-color: darkblue;
@@ -172,7 +172,7 @@ input.phone-input::placeholder{
 }
 .center-item-container .gallery-item.l5{
     position: absolute;
-    top: 120px;
+    top: 130px;
     right: 0;
     width: 100%;
 }
