@@ -51,19 +51,19 @@ header {
 }
 .logo h3 {
   color: darkblue;
-  font-size: 36px;
+  font-size: 2.35rem;
   font-family: Calibri, "Trebuchet MS", sans-serif;
 }
 .logo .phone {
   display: flex;
   align-items: center;
   color: rgb(5, 132, 218);
-  font-size: 22px;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 .whatsapp-icon {
-  width: 22px;
-  height: 22px;
+  width: 1.5rem;
+  height: 1.5rem;
   margin-right: 5px;
 }
 .option-one,
@@ -73,26 +73,26 @@ header {
 }
 .option-one p:first-of-type,
 .option-two p:first-of-type {
-  font-size: 3rem;
+  font-size: 3.1rem;
 }
 
 .option-one p:nth-of-type(2) {
-  font-size: 1.75rem;
+  font-size: 1.8rem;
   font-weight: bold;
   margin-top: 1rem;
 }
 .option-one p:nth-of-type(3),
 .option-two p:nth-of-type(2) {
-  font-size: 1.3rem;
+  font-size: 1.35rem;
   margin: 1rem 0;
 }
 .option-one p:nth-of-type(4) {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 .option-one .center-item-container p,
 .option-two .center-item-container p {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   font-weight: bold;
   margin-bottom: 1rem;
   max-width: 35%;
