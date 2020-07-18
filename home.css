@@ -1,6 +1,7 @@
 /* general setting */
 * {
-  font-family: Arial, sans-serif;
+  /* font-family: Arial, sans-serif; */
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
   direction: rtl;
   padding: 0;
   margin: 0;
