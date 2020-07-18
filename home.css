@@ -1,7 +1,7 @@
 /* general setting */
 * {
-  /* font-family: Arial, sans-serif; */
-  font-family: Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Times New Roman', serif;
+  /* font-family: Calibri, 'Trebuchet MS', sans-serif; */
   direction: rtl;
   padding: 0;
   margin: 0;
@@ -69,11 +69,12 @@ header {
 .option-one,
 .option-two {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 .option-one p:first-of-type,
 .option-two p:first-of-type {
   font-size: 3.1rem;
+  font-weight: bolder;
 }
 
 .option-one p:nth-of-type(2) {
