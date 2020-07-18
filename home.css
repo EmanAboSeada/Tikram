@@ -46,7 +46,7 @@ img {
 header {
   width: 100%;
   padding-top: 10px;
-  background-image: linear-gradient(to bottom, rgb(224, 225, 226), white 73%);
+  background-image: linear-gradient(to bottom, rgb(224, 225, 226), white);
   margin-bottom: 160px;
 }
 .logo h3 {
